@@ -1,0 +1,16 @@
+.pic {
+    display: flex;
+    justify-content: space-evenly;
+    img {
+        padding-left: 50%;
+    }
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.edu {
+    margin-left: 10%;
+}
